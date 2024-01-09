@@ -1,0 +1,8 @@
+name: DrawRoad
+version: 1.0
+author: Ender'
+main: fr.ender.drawroad.Main
+commands:
+  drawroad:
+    permission: drawroad.use
+    description: main command drawroad
